@@ -1,0 +1,6 @@
+{
+  "name": "PULSE-EMS: Hospital Emergency Management System",
+  "description": "Emergency department triage and queue management system with priority queue, dynamic linked list patient records, and comprehensive technical report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
